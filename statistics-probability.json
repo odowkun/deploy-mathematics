@@ -1,0 +1,50 @@
+[
+  {
+    "title-list": "Introduction to probability and statistics",
+    "title": "Introduction to probability and statistics, set theory, events, axioms of probability.",
+    "video": "https://www.youtube.com/embed/dkpk5iPsiYM?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  },
+  {
+    "title-list": "Bayes Theorem, discrete random variables",
+    "title": "Axioms of probability, conditional probability, independence, partition, total probability, Bayes Theorem, discrete random variables, probability mass function (PMF), cumulative distribution function (CDF), expectation, variance.",
+    "video": "https://www.youtube.com/embed/L4K5-PXXGaY?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  },
+  {
+    "title-list": "Discrete and continuous random variables",
+    "title": "Discrete and continuous random variables, probability distribution (Uniform, Binomial, Geometric, Poisson), probability mass function (PMF), cumulative distribution function (CDF), expectation, variance, probability density function (PDF)",
+    "video": "https://www.youtube.com/embed/ZEOL4rsfY_A?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  },
+  {
+    "title-list": "Continuous random variables",
+    "title": "Continuous random variables, probability distribution (Uniform, Exponential, Normal/Gaussian, Chi-Square, Log-Normal), change of variable: one function of one random variable, Chebyshev's Inequality, systems and component reliability.",
+    "video": "https://www.youtube.com/embed/SjbrSlgYlI8?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  },
+  {
+    "title-list": "Jointly distributed random variables - Part 1",
+    "title": "Systems and component reliability, reliability function, hazard rate, Weibull distribution, jointly distributed random variables, Joint PMF, Joint PDF, marginals, independent random variables, conditional PMF/PDF, conditional expectation.",
+    "video": "https://www.youtube.com/embed/2pYip_qIDns?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  },
+  {
+    "title-list": "Jointly distributed random variables - Part 2",
+    "title": "Conditional variance, covariance, correlation, joint Normal (Gaussian) distribution, moments, moment generating function, characteristic function, relationship with Fourier Transform, sums of random variables.",
+    "video": "https://www.youtube.com/embed/WKOhWuj5Puo?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  },
+  {
+    "title-list": "Change of variables, LLN, CLT, estimators",
+    "title": "Change of variables: one function of two random variables, two functions of two random variables, Rayleigh distribution, Law of Large Numbers (LLN), Central Limit Theorem (CLT), Statistics and sampling distributions, estimator, properties of estimators, biased/unbiased estimator, minimum variance.",
+    "video": "https://www.youtube.com/embed/I1ifDTIyUWw?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  },
+  {
+    "title-list": "Method of moments, maximum likelihood",
+    "title": "Statistics, estimators, mean squared error, method of moments, maximum likelihood estimation.",
+    "video": "https://www.youtube.com/embed/iIVZfSboTrw?rel=0&showinfo=0&modestbranding=1&autohide=1",
+    "description": "Probability and Statistics for Engineers: sets, events, axioms of probability, random variables, probability mass function, probability density function, cumulative distribution function, expectation and variance, single discrete or continuous random variable, systems and component reliability, multiple discrete or continuous random variables, jointly distributed random variables, change of variables, moments, moment generating function, conditional probability, conditional expectation, conditional variance, law of large numbers, central limit theorem, basic properties of estimators, method of moments, and maximum likelihood estimators. <br> Module given at Imperial College London to second year undergraduate students in electrical and electronic engineering."
+  }
+]

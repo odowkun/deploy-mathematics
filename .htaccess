@@ -1,0 +1,25 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^mathematics\.test$ [NC]
+RewriteRule ^$ index.php [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# Tambahkan aturan untuk mengubah 
+RewriteRule ^course/([0-9]+)$ /course?page=$1 [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^course/(.*)$ /$1 [L]
+
+# Biarkan akses langsung ke file dan folder
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Disable server signature
+ServerSignature Off
+
+# Hide PHP version information
+<IfModule mod_headers.c>
+    Header unset X-Powered-By
+</IfModule>
